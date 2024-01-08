@@ -1,3 +1,8 @@
+# Simple Next.js Website
+
+![nextjs website](https://github.com/Kuzma02/Simple-Next-JS-Website/assets/138793624/94a8beb9-ffaf-46ce-ade5-b9ca503fb810)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
